@@ -46,4 +46,4 @@ I am a Fresher Of Full Stack Python Developer <img src="https://media.giphy.com/
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-AbhiAttarge13
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
